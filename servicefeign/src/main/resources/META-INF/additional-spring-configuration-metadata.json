@@ -1,0 +1,13 @@
+{
+  "properties": [
+    {
+      "name": "feign.hystrix.enabled",
+      "type": "java.lang.String",
+      "description": "Description for feign.hystrix.enabled."
+    },
+    {
+      "name": "zmaj.eureka.server.port",
+      "type": "java.lang.String",
+      "description": "Description for zmaj.eureka.server.port."
+    }
+  ] }
