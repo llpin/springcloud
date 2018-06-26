@@ -14,7 +14,8 @@
         <module>serviceribbon</module>
         <module>servicefeign</module>
         <module>servicezuul</module>
-        <module>ConfigServer</module>
+        <module>configserver</module>
+        <module>configclient</module>
     </modules>
 
     <parent>
